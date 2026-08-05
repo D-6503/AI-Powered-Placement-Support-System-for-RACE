@@ -6,11 +6,13 @@ It features a **Demand-Aware S-BERT + FAISS matching engine**, real-time multi-s
 
 ---
 
-## 📸 System Overview
+## 🎥 System Overview & Video Walkthrough
 
-| Placement Officer Dashboard & Mandate Explorer | Postgraduate Student Portal & ATS Auditor |
-| :---: | :---: |
-| ![Placement Officer Dashboard](docs/screenshots/admin_dashboard.png) | ![Student Portal](docs/screenshots/student_portal.png) |
+<p align="center">
+  <video src="docs/screenshots/demo_walkthrough.webm" width="100%" controls autoplay loop muted></video>
+</p>
+
+*Video Walkthrough demonstrating live India tech job aggregation, S-BERT + FAISS candidate matching, Placement Officer nomination, and automated referral email dispatch.*
 
 ---
 
