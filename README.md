@@ -6,13 +6,11 @@ It features a **Demand-Aware S-BERT + FAISS matching engine**, real-time multi-s
 
 ---
 
-## 🎥 System Overview & Video Walkthrough
+## 🎬 System Overview & Walkthrough
 
-<p align="center">
-  <video src="docs/screenshots/demo_walkthrough.webm" width="100%" controls autoplay loop muted></video>
-</p>
+![REVA RACE System Demo Walkthrough](docs/screenshots/demo_walkthrough.gif)
 
-*Video Walkthrough demonstrating live India tech job aggregation, S-BERT + FAISS candidate matching, Placement Officer nomination, and automated referral email dispatch.*
+*Animated Walkthrough demonstrating live India tech job aggregation, S-BERT + FAISS candidate matching, Placement Officer nomination, and automated referral email dispatch.*
 
 ---
 
