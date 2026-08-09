@@ -215,4 +215,5 @@ The system includes an academic evaluation module comparing the proposed **Deman
 ## 📄 License
 
 Developed for **REVA University — REVA Academy for Corporate Excellence (RACE)**.  
+by - D-6503.
 All Rights Reserved © 2026.
