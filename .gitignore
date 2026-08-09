@@ -34,4 +34,5 @@ Thumbs.db
 
 # Storage / Cache
 backend/storage/
+docs/video_temp/
 *.log
